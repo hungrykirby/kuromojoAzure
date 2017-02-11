@@ -1,0 +1,14 @@
+{
+  "name": "keitaisokaiseki",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kuromoji": "^0.1.1"
+  }
+}
