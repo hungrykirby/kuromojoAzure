@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node app.js"
   },
+  "engines": {
+    "node": "6.2.2",
+    "npm": "3.9.5"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
